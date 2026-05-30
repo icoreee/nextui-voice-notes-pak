@@ -3,6 +3,8 @@
 Voice Notes is a NextUI pak for recording and playing short voice notes with
 the TrimUI Brick microphone.
 
+![Voice Notes screenshot](assets/screenshot.png)
+
 Recordings are saved as WAV files in:
 
 ```text
