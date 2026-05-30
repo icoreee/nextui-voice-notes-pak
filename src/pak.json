@@ -1,0 +1,8 @@
+{
+  "name": "Voice Notes",
+  "type": "TOOL",
+  "description": "Record and play voice notes with the TrimUI Brick microphone",
+  "author": "icoreee",
+  "launch": "launch.sh",
+  "version": "0.1.0"
+}
